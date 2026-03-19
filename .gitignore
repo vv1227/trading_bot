@@ -10,3 +10,4 @@ logs/
 .coverage
 htmlcov/
 
+new-repo/ 
