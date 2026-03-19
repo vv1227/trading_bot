@@ -40,3 +40,9 @@ A Python-based trading bot that allows users to place Market and Limit orders on
 
 pip install -r requirements.txt
 
+
+
+\## 📸 UI Preview
+
+!\[UI](screenshots/screenshot.png)
+
